@@ -1,0 +1,5 @@
+nicegui
+sqlite-utils
+tabulate
+python-dotenv
+markdown2
